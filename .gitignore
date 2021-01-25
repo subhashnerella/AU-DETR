@@ -1,0 +1,7 @@
+**/*.dat
+**/*.pth
+.ipynb_checkpoints
+*.json
+**/*.txt
+__pycache__
+annoated-transformer/**
